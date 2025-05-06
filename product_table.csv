@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price
+101,Product_1,Grocery,10.99
+102,Product_2,Electronics,299.99
+103,Product_3,Clothing,25.5
+104,Product_4,Grocery,5.99
+105,Product_5,Electronics,150.0
+106,Product_6,Clothing,30.0
+107,Product_7,Grocery,3.99
+108,Product_8,Electronics,499.99
+109,Product_9,Clothing,20.0
+110,Product_10,Grocery,2.99
